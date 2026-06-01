@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#f8fafc"/>
+  <style>
+    .title { font: 700 42px Arial, Helvetica, sans-serif; fill: #0f172a; }
+    .subtitle { font: 400 24px Arial, Helvetica, sans-serif; fill: #334155; }
+    .label { font: 700 24px Arial, Helvetica, sans-serif; fill: #0f172a; }
+    .small { font: 400 19px Arial, Helvetica, sans-serif; fill: #334155; }
+    .tiny { font: 400 16px Arial, Helvetica, sans-serif; fill: #334155; }
+    .box { stroke: #94a3b8; stroke-width: 2.5; rx: 22; ry: 22; }
+    .arrow { stroke: #64748b; stroke-width: 3.5; fill: none; marker-end: url(#arrow); }
+    .line { stroke: #64748b; stroke-width: 3.2; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#64748b"/>
+    </marker>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#64748b" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <text x="800" y="70" class="title" text-anchor="middle">Fig-003 Foundation-to-Frontier Mapping</text>
+  <rect x="90" y="150" width="390" height="58" fill="#ffffff" class="box" filter="url(#shadow)"/>
+  <text x="285.0" y="188" class="small" text-anchor="middle">Metric Distance</text>
+  <rect x="90" y="235" width="390" height="58" fill="#ffffff" class="box" filter="url(#shadow)"/>
+  <text x="285.0" y="273" class="small" text-anchor="middle">CCC</text>
+  <rect x="90" y="320" width="390" height="58" fill="#ffffff" class="box" filter="url(#shadow)"/>
+  <text x="285.0" y="358" class="small" text-anchor="middle">ASB</text>
+  <rect x="90" y="405" width="390" height="58" fill="#ffffff" class="box" filter="url(#shadow)"/>
+  <text x="285.0" y="443" class="small" text-anchor="middle">Differential Tree</text>
+  <rect x="90" y="490" width="390" height="58" fill="#ffffff" class="box" filter="url(#shadow)"/>
+  <text x="285.0" y="528" class="small" text-anchor="middle">MDT / EDT</text>
+  <rect x="90" y="575" width="390" height="58" fill="#ffffff" class="box" filter="url(#shadow)"/>
+  <text x="285.0" y="613" class="small" text-anchor="middle">2-Phases Search</text>
+  <rect x="90" y="660" width="390" height="58" fill="#ffffff" class="box" filter="url(#shadow)"/>
+  <text x="285.0" y="698" class="small" text-anchor="middle">ELM</text>
+  <rect x="90" y="745" width="390" height="58" fill="#ffffff" class="box" filter="url(#shadow)"/>
+  <text x="285.0" y="783" class="small" text-anchor="middle">Structural Similarity</text>
+  <rect x="640" y="380" width="320" height="145" fill="#fef3c7" class="box" filter="url(#shadow)"/>
+  <text x="800.0" y="418" class="label" text-anchor="middle">SIFS</text>
+  <text x="800.0" y="452" class="small" text-anchor="middle">Shared Structural</text>
+  <text x="800.0" y="478" class="small" text-anchor="middle">Infrastructure</text>
+  <rect x="1120" y="230" width="360" height="95" fill="#dbeafe" class="box" filter="url(#shadow)"/>
+  <text x="1300.0" y="268" class="label" text-anchor="middle">CGCCC</text>
+  <text x="1300.0" y="302" class="small" text-anchor="middle">System SI</text>
+  <rect x="1120" y="410" width="360" height="95" fill="#dcfce7" class="box" filter="url(#shadow)"/>
+  <text x="1300.0" y="448" class="label" text-anchor="middle">PDS / ASI</text>
+  <text x="1300.0" y="482" class="small" text-anchor="middle">Decision SI</text>
+  <rect x="1120" y="590" width="360" height="95" fill="#ede9fe" class="box" filter="url(#shadow)"/>
+  <text x="1300.0" y="628" class="label" text-anchor="middle">FTI</text>
+  <text x="1300.0" y="662" class="small" text-anchor="middle">Trajectory SI</text>
+  <path d="M480,179 L640,452" class="arrow"/>
+  <path d="M480,264 L640,452" class="arrow"/>
+  <path d="M480,349 L640,452" class="arrow"/>
+  <path d="M480,434 L640,452" class="arrow"/>
+  <path d="M480,519 L640,452" class="arrow"/>
+  <path d="M480,604 L640,452" class="arrow"/>
+  <path d="M480,689 L640,452" class="arrow"/>
+  <path d="M480,774 L640,452" class="arrow"/>
+  <path d="M960,452 L1120,277" class="arrow"/>
+  <path d="M960,452 L1120,457" class="arrow"/>
+  <path d="M960,452 L1120,637" class="arrow"/>
+  <text x="800" y="955" class="tiny" text-anchor="middle">Figure 3. SIFS acts as a shared infrastructure connecting foundation components to all frontier directions.</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#f8fafc"/>
+  <style>
+    .title { font: 700 42px Arial, Helvetica, sans-serif; fill: #0f172a; }
+    .subtitle { font: 400 24px Arial, Helvetica, sans-serif; fill: #334155; }
+    .label { font: 700 24px Arial, Helvetica, sans-serif; fill: #0f172a; }
+    .small { font: 400 19px Arial, Helvetica, sans-serif; fill: #334155; }
+    .tiny { font: 400 16px Arial, Helvetica, sans-serif; fill: #334155; }
+    .box { stroke: #94a3b8; stroke-width: 2.5; rx: 22; ry: 22; }
+    .arrow { stroke: #64748b; stroke-width: 3.5; fill: none; marker-end: url(#arrow); }
+    .line { stroke: #64748b; stroke-width: 3.2; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#64748b"/>
+    </marker>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#64748b" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <text x="800" y="70" class="title" text-anchor="middle">Fig-001 Structural Intelligence Research Architecture</text>
+  <rect x="455" y="105" width="690" height="90" fill="#ffffff" class="box" filter="url(#shadow)"/>
+  <text x="800.0" y="143" class="label" text-anchor="middle">Structural Intelligence (SI)</text>
+  <text x="800.0" y="177" class="small" text-anchor="middle">Foundations · Frontiers · Future Directions</text>
+  <rect x="90" y="280" width="380" height="150" fill="#dbeafe" class="box" filter="url(#shadow)"/>
+  <text x="280.0" y="318" class="label" text-anchor="middle">CGCCC</text>
+  <text x="280.0" y="352" class="small" text-anchor="middle">System Structural Intelligence</text>
+  <text x="280.0" y="378" class="small" text-anchor="middle">Graphs · CCC · Delta</text>
+  <rect x="610" y="280" width="380" height="150" fill="#dcfce7" class="box" filter="url(#shadow)"/>
+  <text x="800.0" y="318" class="label" text-anchor="middle">PDS / ASI</text>
+  <text x="800.0" y="352" class="small" text-anchor="middle">Decision Structural Intelligence</text>
+  <text x="800.0" y="378" class="small" text-anchor="middle">Policy · Governance · Control</text>
+  <rect x="1130" y="280" width="380" height="150" fill="#ede9fe" class="box" filter="url(#shadow)"/>
+  <text x="1320.0" y="318" class="label" text-anchor="middle">FTI</text>
+  <text x="1320.0" y="352" class="small" text-anchor="middle">Trajectory Structural Intelligence</text>
+  <text x="1320.0" y="378" class="small" text-anchor="middle">Tunnels · Evolution · Preservation</text>
+  <path d="M800,195 L280,280" class="arrow"/>
+  <path d="M800,195 L800,280" class="arrow"/>
+  <path d="M800,195 L1320,280" class="arrow"/>
+  <rect x="170" y="555" width="1260" height="160" fill="#fef3c7" class="box" filter="url(#shadow)"/>
+  <text x="800.0" y="593" class="label" text-anchor="middle">Structural Intelligence Foundation Stack (SIFS)</text>
+  <text x="800.0" y="627" class="small" text-anchor="middle">Metric Distance · CCC · ASB · Differential Tree · MDT/EDT</text>
+  <text x="800.0" y="653" class="small" text-anchor="middle">2-Phases Search · ELM · Structural Similarity</text>
+  <path d="M280,555 L280,430" class="arrow"/>
+  <path d="M800,555 L800,430" class="arrow"/>
+  <path d="M1320,555 L1320,430" class="arrow"/>
+  <rect x="170" y="790" width="1260" height="95" fill="#fee2e2" class="box" filter="url(#shadow)"/>
+  <text x="800.0" y="828" class="label" text-anchor="middle">Emerging Directions</text>
+  <text x="800.0" y="862" class="small" text-anchor="middle">Metric Canonicalization · Evidence Intelligence · Simulation Intelligence · Collective Intelligence</text>
+  <path d="M800,715 L800,790" class="arrow"/>
+  <text x="800" y="955" class="tiny" text-anchor="middle">Figure 1. A compact architecture connecting SIFS, three structural frontiers, and future expansion directions.</text>
+</svg>

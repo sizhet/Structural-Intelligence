@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#f8fafc"/>
+  <style>
+    .title { font: 700 42px Arial, Helvetica, sans-serif; fill: #0f172a; }
+    .subtitle { font: 400 24px Arial, Helvetica, sans-serif; fill: #334155; }
+    .label { font: 700 24px Arial, Helvetica, sans-serif; fill: #0f172a; }
+    .small { font: 400 19px Arial, Helvetica, sans-serif; fill: #334155; }
+    .tiny { font: 400 16px Arial, Helvetica, sans-serif; fill: #334155; }
+    .box { stroke: #94a3b8; stroke-width: 2.5; rx: 22; ry: 22; }
+    .arrow { stroke: #64748b; stroke-width: 3.5; fill: none; marker-end: url(#arrow); }
+    .line { stroke: #64748b; stroke-width: 3.2; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#64748b"/>
+    </marker>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#64748b" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <text x="800" y="70" class="title" text-anchor="middle">Fig-005 Structural Intelligence and the AI Landscape</text>
+  <rect x="90" y="180" width="520" height="560" fill="#dbeafe" class="box" filter="url(#shadow)"/>
+  <text x="350.0" y="218" class="label" text-anchor="middle">Mainstream AI</text>
+  <text x="350.0" y="252" class="small" text-anchor="middle">Pattern Recognition</text>
+  <text x="350.0" y="278" class="small" text-anchor="middle">Prediction</text>
+  <text x="350.0" y="304" class="small" text-anchor="middle">Generation</text>
+  <text x="350.0" y="330" class="small" text-anchor="middle">Optimization</text>
+  <text x="350.0" y="356" class="small" text-anchor="middle">Large-Scale Learning</text>
+  <rect x="990" y="180" width="520" height="560" fill="#ede9fe" class="box" filter="url(#shadow)"/>
+  <text x="1250.0" y="218" class="label" text-anchor="middle">Structural Intelligence</text>
+  <text x="1250.0" y="252" class="small" text-anchor="middle">Systems</text>
+  <text x="1250.0" y="278" class="small" text-anchor="middle">Decisions</text>
+  <text x="1250.0" y="304" class="small" text-anchor="middle">Trajectories</text>
+  <text x="1250.0" y="330" class="small" text-anchor="middle">Collective Intelligence</text>
+  <text x="1250.0" y="356" class="small" text-anchor="middle">Structural Preservation</text>
+  <rect x="650" y="300" width="300" height="300" fill="#ffffff" class="box" filter="url(#shadow)"/>
+  <text x="800.0" y="338" class="label" text-anchor="middle">Bridge Layer</text>
+  <text x="800.0" y="372" class="small" text-anchor="middle">Metric Distance</text>
+  <text x="800.0" y="398" class="small" text-anchor="middle">CCC</text>
+  <text x="800.0" y="424" class="small" text-anchor="middle">Policy</text>
+  <text x="800.0" y="450" class="small" text-anchor="middle">Function Tunnel</text>
+  <path d="M610,460 L650,460" class="arrow"/>
+  <path d="M950,460 L990,460" class="arrow"/>
+  <text x="800" y="180" class="subtitle" text-anchor="middle">Complementary AI Paradigms</text>
+  <text x="350" y="790" class="small" text-anchor="middle">Strong at data-driven learning and generation</text>
+  <text x="1250" y="790" class="small" text-anchor="middle">Strong at structure, governance, evolution, and coordination</text>
+  <text x="800" y="955" class="tiny" text-anchor="middle">Figure 5. Structural Intelligence complements statistical AI by focusing on systems, decisions, trajectories, and collective intelligence.</text>
+</svg>
