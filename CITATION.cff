@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+
+title: "Human-AI Hybrid Civilization and Future Networked Intelligence (FNI)"
+
+message: >
+  If you use this work, please cite it.
+
+type: software
+
+authors:
+  - family-names: Tan
+    given-names: Sizhe
+
+abstract: >
+  A conceptual framework exploring Human-AI Hybrid Civilization,
+  Future Networked Intelligence (FNI), Brain-Unit Robots,
+  External Cognitive Evolution, and civilization-scale
+  human-AI co-evolution.
+
+keywords:
+  - Artificial Intelligence
+  - Human-AI Hybrid Civilization
+  - Future Networked Intelligence
+  - Brain-Unit Robots
+  - Collective Learning
+  - Civilization Intelligence
+  - External Evolution
+
+license: Apache-2.0
+
+repository-code: "https://github.com/sizhet/Human-AI-Hybrid-Civilization-FNI"

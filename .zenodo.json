@@ -1,0 +1,25 @@
+{
+  "title": "Human-AI Hybrid Civilization and Future Networked Intelligence (FNI): Beyond Master–Servant Paradigms Toward Brain-Unit Co-Evolution",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "description": "This repository proposes Human-AI Hybrid Civilization (HAHC) and Future Networked Intelligence (FNI) as conceptual frameworks for understanding the long-term evolution of civilization under large-scale human-AI collaboration. The work introduces Brain-Unit Robots, External Cognitive Evolution, Human-AI Production Relations, and Civilization-Scale Intelligence Networks. Rather than focusing on AGI as a single superintelligent entity, the repository explores intelligence as an emerging property of interactions among humans, AI brain-units, institutions, memory systems, task graphs, action graphs, and collective learning processes.",
+  "creators": [
+    {
+      "name": "Tan, Sizhe",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "keywords": [
+    "Artificial Intelligence",
+    "Human-AI Hybrid Civilization",
+    "Future Networked Intelligence",
+    "Brain-Unit Robots",
+    "Collective Learning",
+    "External Evolution",
+    "Civilization Intelligence",
+    "Human-AI Co-Evolution",
+    "Structural Intelligence",
+    "Future Society"
+  ],
+  "license": "Apache-2.0"
+}
