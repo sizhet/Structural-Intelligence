@@ -1,8 +1,8 @@
 {
-  "title": "Human-AI Hybrid Civilization and Future Networked Intelligence (FNI): Beyond Master–Servant Paradigms Toward Brain-Unit Co-Evolution",
+  "title": "Structural Intelligence: Foundations, Frontiers, and Future Directions",
   "upload_type": "publication",
-  "publication_type": "workingpaper",
-  "description": "This repository proposes Human-AI Hybrid Civilization (HAHC) and Future Networked Intelligence (FNI) as conceptual frameworks for understanding the long-term evolution of civilization under large-scale human-AI collaboration. The work introduces Brain-Unit Robots, External Cognitive Evolution, Human-AI Production Relations, and Civilization-Scale Intelligence Networks. Rather than focusing on AGI as a single superintelligent entity, the repository explores intelligence as an emerging property of interactions among humans, AI brain-units, institutions, memory systems, task graphs, action graphs, and collective learning processes.",
+  "publication_type": "report",
+  "description": "Structural Intelligence (SI) is a unified research program investigating intelligence from the perspectives of structures, decisions, trajectories, and collective intelligence. The framework introduces the Structural Intelligence Foundation Stack (SIFS), three major frontier directions (CGCCC, PDS/ASI, and FTI), and a set of future research directions including Metric Canonicalization, Evidence Intelligence, Simulation Intelligence, and Collective Intelligence. This repository serves as a top-level research map connecting a broader family of Structural Intelligence projects.",
   "creators": [
     {
       "name": "Tan, Sizhe",
@@ -10,16 +10,20 @@
     }
   ],
   "keywords": [
-    "Artificial Intelligence",
-    "Human-AI Hybrid Civilization",
-    "Future Networked Intelligence",
-    "Brain-Unit Robots",
-    "Collective Learning",
-    "External Evolution",
-    "Civilization Intelligence",
-    "Human-AI Co-Evolution",
     "Structural Intelligence",
-    "Future Society"
+    "Artificial Intelligence",
+    "Systems Intelligence",
+    "Decision Intelligence",
+    "Trajectory Intelligence",
+    "Collective Intelligence",
+    "CGCCC",
+    "PDS",
+    "ASI",
+    "FTI",
+    "Metric Distance",
+    "CCC",
+    "Differential Tree"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "language": "eng"
 }

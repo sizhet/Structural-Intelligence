@@ -1,31 +1,35 @@
 cff-version: 1.2.0
-
-title: "Human-AI Hybrid Civilization and Future Networked Intelligence (FNI)"
-
-message: >
-  If you use this work, please cite it.
-
-type: software
-
+message: "If you use this work, please cite it as below."
+title: "Structural Intelligence: Foundations, Frontiers, and Future Directions"
+type: report
 authors:
   - family-names: Tan
     given-names: Sizhe
-
+    affiliation: Independent Researcher
 abstract: >
-  A conceptual framework exploring Human-AI Hybrid Civilization,
-  Future Networked Intelligence (FNI), Brain-Unit Robots,
-  External Cognitive Evolution, and civilization-scale
-  human-AI co-evolution.
-
+  Structural Intelligence (SI) is a unified research program investigating
+  intelligence from the perspectives of structures, decisions, trajectories,
+  and collective intelligence. This work introduces the Structural Intelligence
+  Foundation Stack (SIFS), three major frontier directions including CGCCC,
+  PDS/ASI, and FTI, and future research directions such as Metric
+  Canonicalization, Evidence Intelligence, Simulation Intelligence, and
+  Collective Intelligence.
 keywords:
+  - Structural Intelligence
   - Artificial Intelligence
-  - Human-AI Hybrid Civilization
-  - Future Networked Intelligence
-  - Brain-Unit Robots
-  - Collective Learning
-  - Civilization Intelligence
-  - External Evolution
-
+  - Systems Intelligence
+  - Decision Intelligence
+  - Trajectory Intelligence
+  - Collective Intelligence
+  - CGCCC
+  - PDS
+  - ASI
+  - FTI
+  - CCC
+  - Metric Distance
+  - Differential Tree
 license: Apache-2.0
-
-repository-code: "https://github.com/sizhet/Human-AI-Hybrid-Civilization-FNI"
+version: 1.0.0
+date-released: 2026-06-01
+repository-code: "https://github.com/sizhet/Structural-Intelligence"
+url: "https://github.com/sizhet/Structural-Intelligence"
