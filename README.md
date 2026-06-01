@@ -167,10 +167,28 @@ and related future research directions.
 
 ## Citation
 
-If you find this work useful, please cite the associated DOI release.
-
----
+DOI: TBD
 
 ## License
 
 Apache-2.0
+
+## Author
+
+Sizhe Tan
+
+Independent Researcher
+
+2026
+
+---
+
+## 📚 DBM-SI Series Navigation
+
+See:\
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Common-Abbreviations-and-Terminology.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Common-Abbreviations-and-Terminology.md)
+
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md)
+
+
+
