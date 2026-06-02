@@ -13,16 +13,16 @@ A complete intelligent system must answer at least three fundamental questions:
 
 #### What exists?
 
-How are components organized?
-How are structures connected?
+How are components organized?\
+How are structures connected?\
 How does the system evolve over time?
 
 ### Decision Question
 
 #### What should be done?
 
-Which action should be selected?
-Which policy should be applied?
+Which action should be selected?\
+Which policy should be applied?\
 How should risks and opportunities be balanced?
 
 ### Trajectory Question
@@ -35,12 +35,13 @@ How can long-term evolution remain stable?
 
 These three questions define the three frontier directions of Structural Intelligence:
 
-Frontier	Core Question
-CGCCC	What exists?
-PDS / ASI	What should be done?
-FTI	How can change occur safely?
+|Frontier	|Core Question |
+|---|---|
+|CGCCC	|What exists?
+|PDS / ASI	|What should be done?
+|FTI	|How can change occur safely?
 
-Together they form the Structural Intelligence Frontier Triangle.
+Together they form the **Structural Intelligence Frontier Triangle**.
 
 ## The Frontier Triangle
 
@@ -50,11 +51,11 @@ Together they form the Structural Intelligence Frontier Triangle.
 
                                       │
 
-                    ┌─────────────────────────────────┐
-                    │                                 │
-                    │     Structural Frontiers        │
-                    │                                 │
-                    └─────────────────────────────────┘
+                        ┌─────────────────────────────────┐
+                        │                                 │
+                        │     Structural Frontiers        │
+                        │                                 │
+                        └─────────────────────────────────┘
 
                              ▲             ▲             ▲
                              │             │             │
@@ -75,27 +76,28 @@ Together they form the Structural Intelligence Frontier Triangle.
 
                              ▼             ▼             ▼
 
-                   Metric Canonicalization
-                     Evidence Intelligence
-                    Simulation Intelligence
-                     Collective Intelligence
+                           Metric Canonicalization
+                             Evidence Intelligence
+                            Simulation Intelligence
+                             Collective Intelligence
 
 ## Comparative Overview
 ### The Three Branches of Structural Intelligence
 
-Dimension	CGCCC	PDS / ASI	FTI
-Branch	System Structural Intelligence	Decision Structural Intelligence	Trajectory Structural Intelligence
-Core Question	What exists?	What should be done?	How can change occur safely?
-Main Object	Systems and Networks	Decisions and Policies	Evolution and Transformation
-Primary Representation	Graphs	Decision Surfaces	Trajectories
-Core Unit	Node / Edge	Policy / Action	State Transition
-Time Perspective	Historical + Structural	Present + Operational	Long-Term Evolution
-Focus	Organization	Selection	Preservation
-Key Output	Structural Understanding	Action Selection	Evolution Guidance
-Typical Structure	Calling Graph	Policy Graph	Function Tunnel
-Main Concern	Complexity	Governance	Stability
-Main Risk	Structural Chaos	Wrong Decisions	Functional Loss
-Main Goal	System Intelligence	Autonomous Intelligence	Evolution Intelligence
+|Dimension	|CGCCC	|PDS / ASI	|FTI |
+|---|---|---|---|
+|Branch	System |Structural Intelligence	|Decision Structural Intelligence	|Trajectory Structural Intelligence
+|Core Question	|What exists?	|What should be done?	|How can change occur safely?
+|Main Object	|Systems and Networks	|Decisions and Policies	|Evolution and Transformation
+|Primary Representation	|Graphs	|Decision Surfaces	|Trajectories
+|Core Unit	|Node / Edge	|Policy / Action	|State Transition
+|Time Perspective	|Historical + Structural	|Present + Operational	|Long-Term Evolution
+|Focus	|Organization	|Selection	|Preservation
+|Key Output	|Structural Understanding	|Action Selection	|Evolution Guidance
+|Typical Structure	|Calling Graph	|Policy Graph	|Function Tunnel
+|Main Concern	|Complexity	|Governance	|Stability
+|Main Risk	|Structural Chaos	|Wrong Decisions	|Functional Loss
+|Main Goal	|System Intelligence	|Autonomous Intelligence	|Evolution Intelligence
 
 ## Conceptual Roles
 
@@ -107,18 +109,18 @@ CGCCC focuses on the structure of systems.
 
 It seeks to understand:
 
-what components exist,
-how they are connected,
-how they interact,
-how they evolve.
+- what components exist,
+- how they are connected,
+- how they interact,
+- how they evolve.
 
 Typical examples include:
 
-software systems,
-task networks,
-organizational structures,
-human-AI ecosystems,
-Future Networked Intelligence (FNI).
+- software systems,
+- task networks,
+- organizational structures,
+- human-AI ecosystems,
+-Future Networked Intelligence (FNI).
 
 CGCCC asks:
 
@@ -130,18 +132,18 @@ PDS focuses on decisions.
 
 It seeks to determine:
 
-which actions are feasible,
-which actions are desirable,
-which policies should be applied,
-how decisions should be governed.
+- which actions are feasible,
+- which actions are desirable,
+- which policies should be applied,
+- how decisions should be governed.
 
 Typical examples include:
 
-autonomous agents,
-runtime governance,
-policy selection,
-decision optimization,
-structural control planes.
+- autonomous agents,
+- runtime governance,
+- policy selection,
+- decision optimization,
+- structural control planes.
 
 PDS asks:
 
@@ -153,18 +155,18 @@ FTI focuses on trajectories.
 
 It seeks to understand:
 
-how systems evolve,
-how transformations occur,
-how functionality can be preserved,
-how feasible pathways can be identified.
+- how systems evolve,
+- how transformations occur,
+- how functionality can be preserved,
+- how feasible pathways can be identified.
 
 Typical examples include:
 
-scientific discovery,
-engineering design,
-biological evolution,
-technology evolution,
-social and historical development.
+- scientific discovery,
+- engineering design,
+- biological evolution,
+- technology evolution,
+- social and historical development.
 
 FTI asks:
 
@@ -180,15 +182,16 @@ They are different applications of the same underlying infrastructure.
 
 ### Foundation-to-Frontier Mapping
 
-Foundation Component	CGCCC	PDS / ASI	FTI
-Metric Distance	Structure Similarity	Decision Similarity	Trajectory Similarity
-CCC	Graph CCC	Policy CCC	Tunnel CCC
-ASB	Graph Segmentation	Decision Branching	Trajectory Branching
-Differential Tree	System Organization	Policy Organization	Trajectory Organization
-MDT / EDT	Structural Retrieval	Decision Retrieval	Path Retrieval
-2-Phases Search	System Search	Decision Search	Tunnel Search
-ELM	Event Networks	Decision Event Flows	Evolution Events
-Structural Similarity	Structural Reuse	Policy Reuse	Trajectory Reuse
+|Foundation Component	|CGCCC	|PDS / ASI	|FTI |
+|---|---|---|---|
+|Metric Distance	|Structure Similarity	|Decision Similarity	|Trajectory Similarity
+|CCC	|Graph CCC	|Policy CCC	|Tunnel CCC
+|ASB	|Graph Segmentation	|Decision Branching	|Trajectory Branching
+|Differential Tree	|System Organization	|Policy Organization	|Trajectory Organization
+|MDT / EDT	|Structural Retrieval	|Decision Retrieval	|Path Retrieval
+|2-Phases Search	|System Search	|Decision Search	|Tunnel Search
+|ELM	|Event Networks	|Decision Event Flows	|Evolution Events
+|Structural Similarity	|Structural Reuse	|Policy Reuse	|Trajectory Reuse
 
 ## Relationship with Future Directions
 
@@ -198,11 +201,12 @@ Instead, they emerge naturally from the interaction of all three frontier direct
 
 ### Frontier-to-Future Mapping
 
-Emerging Direction	CGCCC Contribution	PDS / ASI Contribution	FTI Contribution
-Metric Canonicalization	Graph Distance	Decision Distance	Trajectory Distance
-Evidence Intelligence	Structural Evidence	Decision Evidence	Evolution Evidence
-Simulation Intelligence	System Simulation	Policy Simulation	Tunnel Simulation
-Collective Intelligence	FNI	Multi-Agent Governance	Collective Evolution
+|Emerging Direction	|CGCCC Contribution	|PDS / ASI Contribution	|FTI Contribution |
+|---|---|---|---|
+|etric Canonicalization	|Graph Distance	|Decision Distance	|Trajectory Distance
+|Evidence Intelligence	|Structural Evidence	|Decision Evidence	|Evolution Evidence
+|Simulation Intelligence	|System Simulation	|Policy Simulation	|Tunnel Simulation
+|Collective Intelligence	|FNI	|Multi-Agent Governance	|Collective Evolution
 
 ## Coverage of the AI Landscape
 
@@ -214,18 +218,20 @@ Structural Intelligence addresses areas that remain comparatively underdeveloped
 
 ## Mainstream AI vs Structural Intelligence
 
-Capability	Mainstream AI	Structural Intelligence
-Pattern Recognition	Strong	Moderate
-Content Generation	Strong	Moderate
-Structural Understanding	Limited	Strong
-Decision Governance	Limited	Strong
-Explainability	Limited	Strong
-Evidence Traceability	Limited	Strong
-Long-Term Evolution Modeling	Limited	Strong
-Human-AI Coordination	Limited	Strong
-Collective Intelligence	Limited	Strong
-Structural Preservation	Limited	Strong
-Unified Structural Intelligence Cycle
+|Capability	|Mainstream AI	|Structural Intelligence |
+|---|---|---|
+|Pattern Recognition	|Strong	|Moderate
+|Content Generation	|Strong	|Moderate
+|Structural Understanding	|Limited	|Strong
+|Decision Governance	|Limited	|Strong
+|Explainability	|Limited	|Strong
+|Evidence Traceability	|Limited	|Strong
+|Long-Term Evolution Modeling	|Limited	|Strong
+|Human-AI Coordination	|Limited	|Strong
+|Collective Intelligence	|Limited	|Strong
+|Structural Preservation	|Limited	|Strong
+
+## Unified Structural Intelligence Cycle
 
 The three frontier directions can be viewed as a continuous cycle.
 
@@ -272,12 +278,13 @@ This cycle represents the operational core of Structural Intelligence.
 
 The complete Structural Intelligence framework can be summarized as follows.
 
-Layer	Purpose
-Structural Intelligence Foundation Stack (SIFS)	Mathematical and Computational Infrastructure
-CGCCC	System Structural Intelligence
-PDS / ASI	Decision Structural Intelligence
-FTI	Trajectory Structural Intelligence
-Future Directions	Expansion Toward Evidence-Aware, Simulation-Driven, and Collective Intelligence Systems
+|Layer	|Purpose |
+|---|---|
+|Structural Intelligence Foundation Stack (SIFS)	|Mathematical and Computational Infrastructure
+|CGCCC	|System Structural Intelligence
+|PDS / ASI	|Decision Structural Intelligence
+|FTI	|Trajectory Structural Intelligence
+|Future Directions	|Expansion Toward Evidence-Aware, Simulation-Driven, and Collective Intelligence Systems
 
 ## Conclusion
 
