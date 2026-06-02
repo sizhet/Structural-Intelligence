@@ -21,15 +21,15 @@ Structural Intelligence begins from a different perspective:
 
 From this perspective, three fundamental questions emerge:
 
-### System Question
+#### System Question
 
 How are complex systems organized and evolved?
 
-### Decision Question
+#### Decision Question
 
 How are actions selected and governed?
 
-### Trajectory Question
+#### Trajectory Question
 
 How do systems evolve while preserving critical functionality?
 
@@ -108,10 +108,10 @@ Metric Distance serves as the measurement engine of Structural Intelligence.
 
 Every intelligent system must answer:
 
-What is similar?
-What is different?
-How different?
-In which direction?
+- What is similar?
+- What is different?
+- How different?
+- In which direction?
 
 Metric Distance provides the quantitative basis for these questions.
 
@@ -125,11 +125,11 @@ Rather than focusing solely on differences, CCC focuses on discovering common st
 
 CCC enables:
 
-abstraction
-compression
-generalization
-transfer learning
-policy preservation
+- abstraction
+- compression
+- generalization
+- transfer learning
+- policy preservation
 
 CCC acts as the structural anchor throughout the SI ecosystem.
 
@@ -139,20 +139,20 @@ Many natural and artificial systems contain hidden segmentation and branching st
 
 ASB provides mechanisms for automatically discovering:
 
-states
-phases
-transitions
-branches
-sub-processes
+- states
+- phases
+- transitions
+- branches
+- sub-processes
 
 ASB plays a role similar to feature extraction in machine learning but operates directly on structural and temporal organization.
 
 ASB is expected to become increasingly important for:
 
-trajectory discovery
-process mining
-behavior decomposition
-autonomous knowledge construction
+- trajectory discovery
+- process mining
+- behavior decomposition
+- autonomous knowledge construction
 
 ### 3.4 Differential Trees
 
@@ -162,10 +162,10 @@ Instead of organizing data by exact values, Differential Trees organize data by 
 
 This supports:
 
-scalable search
-hierarchical abstraction
-dynamic clustering
-structural navigation
+- scalable search
+- hierarchical abstraction
+- dynamic clustering
+-structural navigation
 
 Differential Trees serve as one of the fundamental organizational structures of SI.
 
@@ -175,10 +175,10 @@ Metric Differential Trees (MDT) and Euclidean Differential Trees (EDT) extend Di
 
 These structures provide:
 
-efficient indexing
-scalable navigation
-hierarchical clustering
-structural retrieval
+- efficient indexing
+- scalable navigation
+- hierarchical clustering
+- structural retrieval
 
 They form the backbone of large-scale structural memory systems.
 
@@ -196,9 +196,9 @@ Accurate metric evaluation.
 
 This architecture balances:
 
-efficiency
-scalability
-precision
+- efficiency
+- scalability
+- precision
 
 and appears repeatedly across SI systems.
 
@@ -208,9 +208,9 @@ ELM extends intelligence from static representations toward event-centric reason
 
 Instead of modeling isolated states, ELM models:
 
-events
-transitions
-temporal evolution
+- events
+- transitions
+- temporal evolution
 
 ELM provides an important bridge between structural memory and trajectory intelligence.
 
@@ -222,10 +222,10 @@ Two objects may look different while sharing the same structural organization.
 
 This principle is essential for:
 
-abstraction
-transfer
-generalization
-policy preservation
+- abstraction
+- transfer
+- generalization
+- policy preservation
 
 and serves as a recurring theme throughout Structural Intelligence.
 
@@ -242,11 +242,11 @@ CGCCC evolves from:
 
 CGCCC focuses on:
 
-systems
-organizations
-workflows
-software
-civilization-scale networks
+- systems
+- organizations
+- workflows
+- software
+- civilization-scale networks
 
 Its central question is:
 
@@ -254,11 +254,11 @@ Its central question is:
 
 Core concepts include:
 
-Calling Graphs
-CCC extraction
-Delta evolution
-Task-Action duality
-structural governance
+- Calling Graphs
+- CCC extraction
+- Delta evolution
+- Task-Action duality
+- structural governance
 
 CGCCC can be viewed as the System Structural Intelligence branch of SI.
 
@@ -276,11 +276,11 @@ PDS evolves through:
 
 PDS focuses on:
 
-decision making
-policy selection
-governance
-runtime control
-explainability
+- decision making
+- policy selection
+- governance
+- runtime control
+- explainability
 
 Its central question is:
 
@@ -288,11 +288,11 @@ Its central question is:
 
 Key concepts include:
 
-Policy
-Decision Surface
-Structural Governance
-Runtime Control
-Autonomous Decision Systems
+- Policy
+- Decision Surface
+- Structural Governance
+- Runtime Control
+- Autonomous Decision Systems
 
 PDS acts as the operational control plane of Structural Intelligence.
 
@@ -307,11 +307,11 @@ FTI evolves through:
 
 FTI focuses on:
 
-trajectories
-evolution
-transformation
-preservation
-feasible derivation
+- trajectories
+- evolution
+- transformation
+- preservation
+- feasible derivation
 
 Its central question is:
 
@@ -319,11 +319,11 @@ Its central question is:
 
 Key concepts include:
 
-Function Tunnels
-Trajectory IR
-CCC-Preserved Derivation
-Evolution Constraints
-Functional Preservation
+- Function Tunnels
+- Trajectory IR
+- CCC-Preserved Derivation
+- Evolution Constraints
+- Functional Preservation
 
 FTI represents the Trajectory Structural Intelligence branch of SI.
 
@@ -380,9 +380,9 @@ These directions may define future generations of Structural Intelligence resear
 
 Fundamental questions remain:
 
-What is distance?
-What is similarity?
-What is structural deviation?
+- What is distance?
+- What is similarity?
+- What is structural deviation?
 
 A unified metric theory may become one of the most important mathematical foundations of future SI systems.
 
@@ -392,14 +392,14 @@ Modern AI often provides answers without explicit evidence chains.
 
 Future systems must support:
 
-evidence tracing
-explanation
-justification
-provenance
+- evidence tracing
+- explanation
+- justification
+- provenance
 
 Evidence Intelligence seeks to answer:
 
-Why was this decision made?
+> Why was this decision made?
 
 ### 8.3 Simulation Intelligence
 
@@ -407,10 +407,10 @@ Many decisions cannot be validated directly.
 
 Simulation Intelligence provides:
 
-what-if analysis
-scenario exploration
-policy evaluation
-trajectory testing
+- what-if analysis
+- scenario exploration
+- policy evaluation
+- trajectory testing
 
 This direction is expected to become increasingly important for ASI and FTI.
 
@@ -420,10 +420,10 @@ Future intelligence may not reside within a single model.
 
 Instead, it may emerge from:
 
-humans
-AI agents
-organizations
-networks
+- humans
+- AI agents
+- organizations
+- networks
 
 Collective Intelligence investigates how large-scale intelligence ecosystems can coordinate, evolve, and self-govern.
 
@@ -433,19 +433,20 @@ This direction naturally connects to Future Networked Intelligence (FNI).
 
 Structural Intelligence can be viewed as a unified research program composed of:
 
-Foundations
+### Foundations
 
 The Structural Intelligence Foundation Stack (SIFS)
 
-Frontiers
-CGCCC (System Structural Intelligence)
-PDS/ASI (Decision Structural Intelligence)
-FTI (Trajectory Structural Intelligence)
-Future Directions
-Metric Canonicalization
-Evidence Intelligence
-Simulation Intelligence
-Collective Intelligence
+### Frontiers
+- CGCCC (System Structural Intelligence)
+- PDS/ASI (Decision Structural Intelligence)
+- FTI (Trajectory Structural Intelligence)
+
+### Future Directions
+- Metric Canonicalization
+- Evidence Intelligence
+- Simulation Intelligence
+- Collective Intelligence
 
 Together these components provide a coherent framework for studying intelligence beyond pure statistical prediction.
 
