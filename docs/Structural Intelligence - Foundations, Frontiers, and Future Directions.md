@@ -39,6 +39,12 @@ These three questions define the three frontier directions of Structural Intelli
 - PDS/ASI (Decision Structural Intelligence)
 - FTI (Trajectory Structural Intelligence)
 
+---
+
+![./figures/Fig-002-SI-Frontier-Triangle.png](./figures/Fig-002-SI-Frontier-Triangle.png)
+
+---
+
 Together they form the primary research frontiers built upon a shared mathematical and computational foundation.
 
 ## 2. Structural Intelligence Research Architecture
@@ -343,12 +349,6 @@ FTI represents the Trajectory Structural Intelligence branch of SI.
 ## 7. Relationships Between the Three Frontiers
 
 The three frontier directions are complementary rather than competing.
-
----
-
-![./figures/Fig-002-SI-Frontier-Triangle.png](./figures/Fig-002-SI-Frontier-Triangle.png)
-
----
 
 ### CGCCC
 

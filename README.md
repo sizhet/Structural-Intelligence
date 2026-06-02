@@ -23,6 +23,12 @@ The framework is organized around a common foundation layer and three major fron
 
 ## Structural Intelligence Research Architecture
 
+---
+
+![./docs/figures/Fig-001-SI-Research-Architecture.png](./docs/figures/Fig-001-SI-Research-Architecture.png)
+
+---
+
 ```text
 ====================================================
 
@@ -78,6 +84,12 @@ The framework is organized around a common foundation layer and three major fron
 ---
 
 ## Three Frontier Directions
+
+---
+
+![./docs/figures/Fig-002-SI-Frontier-Triangle.png](./docs/figures/Fig-002-SI-Frontier-Triangle.png)
+
+---
 
 ### CGCCC
 
