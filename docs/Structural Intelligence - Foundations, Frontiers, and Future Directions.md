@@ -42,6 +42,13 @@ These three questions define the three frontier directions of Structural Intelli
 Together they form the primary research frontiers built upon a shared mathematical and computational foundation.
 
 ## 2. Structural Intelligence Research Architecture
+
+---
+
+![./figures/Fig-001-SI-Research-Architecture.png](./figures/Fig-001-SI-Research-Architecture.png)
+
+---
+
     ====================================================
     
                Structural Intelligence (SI)
@@ -101,6 +108,12 @@ This architecture separates the field into three layers:
 ## 3. Structural Intelligence Foundation Stack (SIFS)
 
 The Structural Intelligence Foundation Stack provides the common infrastructure shared by all higher-level Structural Intelligence systems.
+
+---
+
+![./figures/Fig-003-SIFS-Foundation-Mapping.png](./figures/Fig-003-SIFS-Foundation-Mapping.png)
+
+---
 
 ### 3.1 Metric Distance
 
@@ -331,6 +344,12 @@ FTI represents the Trajectory Structural Intelligence branch of SI.
 
 The three frontier directions are complementary rather than competing.
 
+---
+
+![./figures/Fig-002-SI-Frontier-Triangle.png](./figures/Fig-002-SI-Frontier-Triangle.png)
+
+---
+
 ### CGCCC
 
 Focuses on system structures.
@@ -369,6 +388,12 @@ Together they provide a complete structural reasoning cycle:
        ↓
     
     System Evolution
+
+---
+
+![./figures/Fig-004-SI-Lifecycle.png](./figures/Fig-004-SI-Lifecycle.png)
+
+---
 
 ## 8. Emerging Research Directions
 
@@ -428,6 +453,12 @@ Instead, it may emerge from:
 Collective Intelligence investigates how large-scale intelligence ecosystems can coordinate, evolve, and self-govern.
 
 This direction naturally connects to Future Networked Intelligence (FNI).
+
+---
+
+![./figures/Fig-005-SI-and-AI-Landscape.png](./figures/Fig-005-SI-and-AI-Landscape.png)
+
+---
 
 ## 9. Conclusion
 

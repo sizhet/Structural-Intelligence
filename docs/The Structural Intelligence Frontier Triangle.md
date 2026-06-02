@@ -45,6 +45,12 @@ Together they form the **Structural Intelligence Frontier Triangle**.
 
 ## The Frontier Triangle
 
+---
+
+![./figures/Fig-002-SI-Frontier-Triangle.png](./figures/Fig-002-SI-Frontier-Triangle.png)
+
+---
+
                          Structural Intelligence
 
                                       ▲
@@ -182,6 +188,12 @@ They are different applications of the same underlying infrastructure.
 
 ### Foundation-to-Frontier Mapping
 
+---
+
+![./figures/Fig-003-SIFS-Foundation-Mapping.png](./figures/Fig-003-SIFS-Foundation-Mapping.png)
+
+---
+
 |Foundation Component	|CGCCC	|PDS / ASI	|FTI |
 |---|---|---|---|
 |Metric Distance	|Structure Similarity	|Decision Similarity	|Trajectory Similarity
@@ -216,6 +228,12 @@ Current AI systems are extremely successful in pattern recognition and content g
 
 Structural Intelligence addresses areas that remain comparatively underdeveloped.
 
+---
+
+![./figures/Fig-005-SI-and-AI-Landscape.png](./figures/Fig-005-SI-and-AI-Landscape.png)
+
+---
+
 ## Mainstream AI vs Structural Intelligence
 
 |Capability	|Mainstream AI	|Structural Intelligence |
@@ -232,6 +250,12 @@ Structural Intelligence addresses areas that remain comparatively underdeveloped
 |Structural Preservation	|Limited	|Strong
 
 ## Unified Structural Intelligence Cycle
+
+---
+
+![./figures/Fig-004-SI-Lifecycle.png](./figures/Fig-004-SI-Lifecycle.png)
+
+---
 
 The three frontier directions can be viewed as a continuous cycle.
 
