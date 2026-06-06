@@ -88,10 +88,13 @@
     Repository: https://github.com/sizhet/Metric-Structural-Intelligence
     
 30. Task-Action Dual Calling Graphs: A Structural Simulator for AI Coding Growth, Bridging, and Compliance \
-    Repository: https://github.com/sizhet/Task-Action-Dual-Calling-Graph
+    Repository: https://github.com/sizhet/Task-Action-Dual-Calling-Graphs
     
 31. Human-AI Hybrid Civilization and Future Networked Intelligence (FNI) \
     Repository: https://github.com/sizhet/Human-AI-Hybrid-Civilization-FNI
 
 32. Structural Intelligence - Foundations, Frontiers, and Future Directions \
     Repository: https://github.com/sizhet/Structural-Intelligence
+    
+33. Universal Semantic Infrastructure (USI) \
+    Repository: https://github.com/sizhet/Universal-Semantic-Infrastructure-USI   
